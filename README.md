@@ -12,3 +12,13 @@ intake) impact the time animals spend in shelters prior to adoption. Kaplan-Meie
 tests are applied to compare group adoption survival (e.g., species, sex). A multivariate model is created to test 
 the impact of multiple features on adoption velocity. The outcomes provide actionable insights that can inform 
 shelters on how to improve adoption approaches and shorten animal wait times. 
+
+
+## 📊 Project Notebook on Kaggle
+
+You can explore the complete analysis and visualizations in the interactive Kaggle notebook here:
+
+🔗 [View Kaggle Notebook](https://www.kaggle.com/code/madisrinija/survival-analysis)
+
+
+
